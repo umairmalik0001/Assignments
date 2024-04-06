@@ -1,0 +1,70 @@
+*{
+
+margin: 0%;
+
+padding: 0%;
+}
+.umair{
+
+    display: flex;
+    margin-left: 140px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+#bb{
+
+    display: flex;
+    margin-left: 500px;
+   
+   
+}
+#a{
+
+    margin-left: 30px;
+    font-size: 15px;
+    margin-top: 12px;
+}
+.talha{
+
+
+text-align: center;
+margin-top: 50px;
+margin: auto;
+font-size: 20px;
+
+}
+
+hr{
+
+    opacity: 20%;
+}
+#b{
+
+    font-size: 15px;
+    padding-top: 5px;
+  
+}
+.ali{
+
+    border: 1px solid black;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.dd{
+margin-left: 350px;
+
+}
+
+#cc{
+margin-left: 80px;
+margin-bottom: 0%;
+}
+
+
+  
+   
+
+
+
+
